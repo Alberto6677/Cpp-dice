@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Learn C++/Learn C++.vcxproj" />
+  <Project Path="dice/dice.vcxproj" />
 </Solution>
