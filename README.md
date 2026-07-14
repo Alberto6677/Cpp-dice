@@ -1,14 +1,14 @@
-# Cpp dice
+# Cpp dice 🎲
 
 A simple C++ console application that simulates rolling a six-sided die.
 
-## Features
+## Features 🔨
 
 - Random dice roll
 - Easy to understand code
 - Great for C++ beginners
 
-## How to run
+## How to run ▶️
 
 1. Open the project in Visual Studio.
 2. Build and run.
